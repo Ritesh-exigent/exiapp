@@ -1,9 +1,9 @@
 <?php 
 //database login MACRO
-define('HOST', "172.16.0.142");
-define('USER', "root");
-define('PWD', "test");
-define('DB', "exiapp");
+define('HOST', "sql6.freemysqlhosting.net");
+define('USER', "sql6690947");
+define('PWD', "myv5da4jZr");
+define('DB', "sql6690947");
 
 //database table MACRO
 define('_USER', "user");
